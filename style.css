@@ -27,7 +27,7 @@ h1, h2, h3, h4, h5, h6 {
   padding: 60px 0;
 }
 .bg-accent {
-  background: blue;
+  background: rgb(0, 0, 128);
   color: #fff;
 }
 .btn-accent {
@@ -53,4 +53,5 @@ footer {
   text-align: center;
   padding: 20px;
 }
+
 
